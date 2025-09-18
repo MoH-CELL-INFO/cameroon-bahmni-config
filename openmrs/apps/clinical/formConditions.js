@@ -3543,7 +3543,7 @@ Bahmni.ConceptSet.FormConditions.rules = {
 
 	/**
 	 * Handling conditions of Autorisation et les ligature des trompes Form
-	 */
+	 
 
 	'Authorize' : function(formName, formFieldValues) {
 			var conditions = { show: [], hide: [] };
@@ -3556,6 +3556,6 @@ Bahmni.ConceptSet.FormConditions.rules = {
 			}
 				return conditions;
 			
-    },
+    },*/
 
 };
