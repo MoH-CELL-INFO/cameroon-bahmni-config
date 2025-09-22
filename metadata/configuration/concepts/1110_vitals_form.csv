@@ -1,4 +1,5 @@
 uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,Normal low,Normal high,Absolute low,Absolute high,Units,Allow decimals,_version:1,_order:1110
+316a581e-3111-4916-83be-0f608a60fe9a,,,Glycémie,Blood sugar fasting,Glycémie,Blood sugar fasting,LabTest,Numeric,60,110,,,mg/dL,yes,,
 c44cfed2-3f10-11e4-adec-0800271c1b75,,,Assis,Sitting,Assis,Sitting,Misc,N/A,,,,,,,,
 c44d6b8e-3f10-11e4-adec-0800271c1b75,,,Couché,Supine,Couché,Supine,Misc,N/A,,,,,,,,
 c379aa1d-3f10-11e4-adec-0800271c1b75,,,Diastolique,Diastolic,Diastolique,Diastolic,Misc,Numeric,70,85,,,mm Hg,yes,,
@@ -36,7 +37,7 @@ bbb08c51-92ca-4401-b057-7520c0d6e3d9,,,Périmètre crânien,Cranial circumferenc
 14aed3ae-9a41-466c-a935-83f44f20102d,,Moderate;Severe,Malnutrition aigue (Modérée si P/T entre - 2 et - 3 DS; Sévère si < - 3 DS),"Acute malnutrition (Moderate if P / T between - 2 and - 3 SD, Severe if <- 3 SD)",Malnutrition aigue (Modérée si P/T entre - 2 et - 3 DS; Sévère si < - 3 DS),"Acute malnutrition (Moderate if P / T between - 2 and - 3 SD, Severe if <- 3 SD)",Misc,Coded,,,,,,,,
 caa4b7e6-ff59-4275-88f5-9570017c6ad6,,Moderate;Severe,Malnutrition chronique (Modérée si T/A entre - 2 et - 3 DS; Sévère si < - 3 DS),"Chronic malnutrition (Moderate if T / A between - 2 and - 3 SD, Severe if <- 3 SD)",Malnutrition chronique (Modérée si T/A entre - 2 et - 3 DS; Sévère si < - 3 DS),"Chronic malnutrition (Moderate if T / A between - 2 and - 3 SD, Severe if <- 3 SD)",Misc,Coded,,,,,,,,
 07714a3a-85ad-4baa-b634-6a52e882f06c,"Length/Height;Weight/Age SD;Height/Age SD;Weight/Height SD;Chest circumference;Cranial circumference;Bracial circumference;Normal nutrition;Acute malnutrition (Moderate if P / T between - 2 and - 3 SD, Severe if <- 3 SD);Chronic malnutrition (Moderate if T / A between - 2 and - 3 SD, Severe if <- 3 SD)",,Paramétres enfants/adolescent,Infant/Child parameters,Paramétres enfants/adolescent,Infant/Child parameters,Misc,N/A,,,,,,,,
-c36a7537-3f10-11e4-adec-0800271c1b75,Pulse Data;Blood Pressure;Temperature Data;RR Data;SPO2 Data;HEIGHT;WEIGHT;State;Pregnant Woman;Other parameters;Infant/Child parameters,,Paramètres Vitaux,Vitals,Paramètres Vitaux,Vitals,Misc,N/A,,,,,,,,
+c36a7537-3f10-11e4-adec-0800271c1b75,Pulse Data;Blood sugar fasting;Blood Pressure;Temperature Data;RR Data;SPO2 Data;HEIGHT;WEIGHT;State;Pregnant Woman;Other parameters;Infant/Child parameters,,Paramètres Vitaux,Vitals,Paramètres Vitaux,Vitals,Misc,N/A,,,,,,,,
 c367d9ee-3f10-11e4-adec-0800271c1b75,,,IMC,BMI,IMC,BMI,Computed,Numeric,18.5,25,,,,yes,1,,
 2c5bbbbf-f34d-4590-b624-9f17b75b7f00,BMI;BMI ABNORMAL,,Données de l'IMC,BMI Data,Données de l'IMC,BMI,Concept Details,N/A,,,,,,,,,
 80ef57a5-0d0c-48de-acdd-19e026c890b5,BMI STATUS;BMI STATUS ABNORMAL,,Statut IMC,BMI Status Data,STATUT IMC,BMI STATUS,Concept Details,N/A,,,,,,,,,
