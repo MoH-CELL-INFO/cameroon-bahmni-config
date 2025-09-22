@@ -1,0 +1,7 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1246
+d2e4214a-54f0-4b97-b674-d7e605816af8,,,Je soussigné(e),I undersigned,Je soussigné(e),I undersigned,Misc,Text,,
+131c320d-22da-4264-9689-6fa13266e669,,,certifie que Mlle/Mme,certify that Miss/Mrs,certifie que Mlle/Mme,certify that Miss/Mrs,Misc,Text,,
+c041685a-cf69-4b03-ab7b-d75976b30d48,,,âgée de (ans),aged of (years),âgée de (ans),aged of (years),Misc,Text,,
+271dba83-e84c-4cf4-a48f-e71bbeed4d2b,,,Profession du patient,Patient Job,Profession du patient,Patient Job,Misc,Text,,
+44fbbac5-b3b8-4f33-bdcf-737108f9e286,,,Résidence,Residence,Résidence,Residence,Misc,Text,,
+08ac2f4f-df96-41aa-a452-00f0c3fe5a49,I undersigned;certify that Miss/Mrs.;aged of (years);Patient Job;Residence,,Certificat d’accouchement,Certificate of delivery,Certificat d’accouchement,Certificate of delivery,Misc,N/A,,
