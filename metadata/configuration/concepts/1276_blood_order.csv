@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_order:1276
 db7008a3-8ca2-4ab3-8702-c32209e2702e,,,Service,Department,Service,Dept,Misc,Text
 1ccc29fe-49e6-440e-ac14-e12d9170270c,,,Date et Heure,Date and Time,Date,Date,Misc,DateTime
 cda8c507-1bcb-451b-b5e7-b9ce5cbd5942,,,Nom du malade,Patient's Name,Nom patient,Patient Name,Misc,Text
@@ -17,7 +17,6 @@ dd9e63d0-9727-4920-9497-5557ed6cfa56,,,N° de poche,Pocket Number,N° poche,Pock
 eab1b5ac-b181-435d-a7bd-e535cf2905ba,,,"HLD","HLD","HLD","HLD",Misc,Coded
 bc9f8193-f999-4f84-bd51-7662249b97e5,,,"HSJM","HSJM","HSJM","HSJM",Misc,Coded
 e893f1b4-a3c2-48c8-b13d-0ad96ab417f0,,,Autre ,Other ,Autre ,Other ,Misc,Text
-
 a2b07618-3aff-454f-9017-4835a0510e63,,,TPHA/VDRL,TPHA/VDRL,TPHA/VDRL,TPHA/VDRL,Misc,Text
 01c99ef8-9fc6-4857-bc06-14fa28d8836c,,,AC anti VHC,HCV Ab,AC VHC,HCV Ab,Misc,Text
 9f289955-6eea-4965-8267-cfd982a5d9d8,,,AC anti VIH,HIV Ab,AC VIH,HIV Ab,Misc,Text
