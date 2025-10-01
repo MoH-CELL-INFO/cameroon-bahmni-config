@@ -1,6 +1,9 @@
 uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,Normal low,Normal high,Absolute low,Absolute high,Units,Allow decimals,_version:1,_order:1110
 c44cfed2-3f10-11e4-adec-0800271c1b75,,,Assis,Sitting,Assis,Sitting,Misc,N/A,,,,,,,,
 c44d6b8e-3f10-11e4-adec-0800271c1b75,,,Couché,Supine,Couché,Supine,Misc,N/A,,,,,,,,
+18a72464-a806-45c7-bf9c-c15c05030ad9,,,Glycémie Anormale,Blood sugar Abnormal,Glycémie Anormale,Blood sugar Abnormal,Abnormal,Boolean,,,,,,,,
+8bdecb93-c725-497c-a585-3cf3d8091eae,316a581e-3111-4916-83be-0f608a60fe9a;18a72464-a806-45c7-bf9c-c15c05030ad9,,Donnée Glycémique à jeûn,Fasting Blood Glucose Data,Donnée Glycémique à jeûn,Fasting Blood Glucose Data,Concept Details,N/A,,,,,,,,
+75c62d00-967c-48ba-8fc5-5c554d1ff98c,8bdecb93-c725-497c-a585-3cf3d8091eae,,Donnée glycémique,Blood sugar data,Donnée glycémique,Blood sugar data,ConvSet,N/A,,,,,,,,
 c379aa1d-3f10-11e4-adec-0800271c1b75,,,Diastolique,Diastolic,Diastolique,Diastolic,Misc,Numeric,70,85,,,mm Hg,yes,,
 c37a5735-3f10-11e4-adec-0800271c1b75,,,Diastolique Anormale,Diastolic Abnormal,Diastolique Anormale,Diastolic Abnormal,Abnormal,Boolean,,,,,,,,
 c36e9c8b-3f10-11e4-adec-0800271c1b75,,,Systolique,Systolic,Systolique,Systolic,Misc,Numeric,100,140,,,mm Hg,yes,,
