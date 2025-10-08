@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_order:1277
 03d0da85-ebfd-4e16-b5d6-641e61e3c39f,,,Noms et prénoms du patient,Patient's full name,Noms et prénoms du patient,Patient's full name,Misc,Text
 216757c1-fca1-45e9-b6df-48ea9a560c57,,,Age,Age,Age,Age,Misc,Numeric
 37fc1352-009c-4290-b740-265a77f29bbb,,Male;Female,Sexe,Gender,,Gender,Misc,Coded
