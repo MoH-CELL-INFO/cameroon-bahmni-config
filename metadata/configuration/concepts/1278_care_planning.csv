@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_order:1278
 dbe25a28-edbc-40f0-9ecc-80fe0b8d18ea,,,Service de Soins,Service Care,Service de Soins,Service Care,Misc,Text
 28d8bb71-3bba-47b7-9d8c-f6fd93c874f5,,,Chambre du patient,Patient's Room,Chambre du patient,Patient's Room,Misc,Text
 b84254e8-e7f2-4625-a40b-5999af356bc6,,,Lit,Bed,Lit,Bed,Misc,Text
