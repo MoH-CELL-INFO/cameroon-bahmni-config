@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_order:1275
 d2e4214a-54f0-4b97-b674-d7e605816af8,,,Je soussigné,I undersigned,Je soussigné,I undersigned,Misc,Text
 fd89c7c5-6292-429f-8932-2a839831d5e4,,,CNI N°,ID NIC,CNI N°,ID NIC,Misc,Text
 a42758e4-4f59-4ea9-b356-fe1e2bcfd1e6,,,Délivrée le,Issued on,Délivrée le,Issued on,Misc,Date
