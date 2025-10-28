@@ -1,9 +1,9 @@
-uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1390
-65335209-38e1-4c5a-ae72-0c371db4f378,,,Site du malade,Patient's Location,Site du malade,Patient's Location,Misc,Text,,
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_order:1274
+65335209-38e1-4c5a-ae72-0c371db4f378,,,Site du malade,Patient's site,Site du malade,Patient's site,Misc,Text,,
 6c92841d-bc82-4b34-b1e2-b1379324aa7d,,,CDT,CDT,CDT,CDT,Misc,Boolean,,
 ccd7f1ef-52e1-4a97-a28a-ae5fe3d93578,,,a)Date,a)Date,Date,Date,Misc,Date,,
-12b20d87-092f-44c5-a779-e0375678bf8d,,,Tel 1, Tel1,Tel 1, Tel1,Misc,Text,,
-a87b6c10-eba4-4d0c-ba15-5360eeaafb3f,,,Tel 2, Tel2,Tel 2, Tel2,Misc,Text,,
+12b20d87-092f-44c5-a779-e0375678bf8d,,,Tel 1, Tel 1,Tel 1, Tel 1,Misc,Text,,
+a87b6c10-eba4-4d0c-ba15-5360eeaafb3f,,,Tel 2, Tel 2,Tel 2, Tel 2,Misc,Text,,
 f4873173-0fee-484e-9f19-cde89ba842b4,,,Service/Lit ou Adresse,Department/Bed or Address,Service/Lit ou Adresse,Department/Bed or Address,Misc,Text,,
 
 64cbb8b7-e2ab-434c-92e2-39af5e139722,,2975a776-a4cb-4323-aa0f-43ee0a67ebc2;5dcd9f36-9688-4b92-b42b-6c1e0300ff87,Type de TB,TB type,Type de TB,TB type,Misc,Coded,,
@@ -94,7 +94,7 @@ c8ac0bf5-5e01-469c-9b1e-8279d7e7b711,32c82057-c625-43dd-9911-2b458a5d6a7e,,Labor
 
 
 1938f2bf-461c-40a9-807f-6e9406b0d88d,,,CDT:,CDT:,CDT,CDT,Misc,Text,,
-d9793741-7406-486d-819a-2ec684e27412,1938f2bf-461c-40a9-807f-6e9406b0d88d;3e49250d-b124-465b-8965-90a42e92ad7e;1dc8c669-baa4-44e5-b5a9-f6f152da6bc6,,Résultats Examens faits par:,Results Exams done by:,Résultats Examens faits par:,Results Exams done by:,Misc,N/A,,
+d9793741-7406-486d-819a-2ec684e27412,1938f2bf-461c-40a9-807f-6e9406b0d88d;3e49250d-b124-465b-8965-90a42e92ad7e;1dc8c669-baa4-44e5-b5a9-f6f152da6bc6,,Résultats Examens faits par:,Exam Results done by:,Résultats Examens faits par:,Exam Results done by:,Misc,N/A,,
 
 98c2035b-45a5-4102-b6a3-f5edd1e863cd,,,Traité pour TB,Treated for TB,Traité pour TB,Treated for TB,Misc,N/A,,
 3f0a6e5c-efc3-4614-bbbf-0f0343742827,,,Antibiotiques initiés,Antibiotics initiated,Antibiotiques initiés,Antibiotics initiated,Misc,N/A,,
@@ -103,4 +103,4 @@ d9793741-7406-486d-819a-2ec684e27412,1938f2bf-461c-40a9-807f-6e9406b0d88d;3e4925
 6e79c0ad-8df5-4444-9539-1e0bb2f51c50,f250bc37-7885-42be-8a3d-81eae10eb6bc;3e49250d-b124-465b-8965-90a42e92ad7e;ccd7f1ef-52e1-4a97-a28a-ae5fe3d93578;1dc8c669-baa4-44e5-b5a9-f6f152da6bc6,,Par:,By:,Par:,By:,Misc,N/A,,
 82a3603c-2cce-4962-b1ad-39330dd99964,,98c2035b-45a5-4102-b6a3-f5edd1e863cd;3f0a6e5c-efc3-4614-bbbf-0f0343742827;d825ef4c-22a3-4c45-af8e-ce21b6195d6e,Prise en charge du malade:,Patient care:,Prise en charge du malade:,Patient care:,Misc,Coded,,
  
-d8a9d684-d316-4667-a0ae-530261d60b7b,Site du malade;CDT;a)Date;Tel 1;Tel2;Service/Lit ou Adresse;d7413d04-a67a-4be1-acd1-8c5577847dc8;Type de TB;Catégorie(s);Initiation des ARV:;a)Si autre préciser;Symptômes;a)Si autre préciser;Type d'échantillon;a)Si autre préciser;Motif de l'examen;Type de patient;Laboratoire:;Résultats Examens faits par:;Prise en charge du malade:;a)Si autre préciser;Par:,,Formulaire de Demande pour le diagnostic et le suivi du traitement de la TB,Request Form for TB Diagnosis and Treatment Monitoring,Formulaire de Demande pour le diagnostic et le suivi du traitement de la TB,Request Form for TB Diagnosis and Treatment Monitoring,Misc,N/A,,
+d8a9d684-d316-4667-a0ae-530261d60b7b,Patient's site;CDT;a)Date;Tel 1;Tel 2;Department/Bed or Address;Serological status;TB type;Categories;ART Initiation:;a)If other specify;Symptoms;Sample type;Reason for the examination;Type of patient;Lab:;Exam Results done by:;By:;Patient care:,,Formulaire de Demande pour le diagnostic et le suivi du traitement de la TB,Application Form for TB Diagnosis and Treatment Follow-up,Formulaire de Demande pour le diagnostic et le suivi du traitement de la TB,Application Form for TB Diagnosis and Treatment Follow-up,Misc,N/A,,
