@@ -407,6 +407,15 @@
             "T°": {
                 "allowAddMore": true
             },
+            "Symptoms": {
+                "multiSelect": true
+            },
+            "Sample type": {
+                "multiSelect": true
+            },
+            "TB history": {
+                "multiSelect": true
+            },
             "defaults": {
                 "Number of living children": 1,
                 "Accepted Family Planning methods": [

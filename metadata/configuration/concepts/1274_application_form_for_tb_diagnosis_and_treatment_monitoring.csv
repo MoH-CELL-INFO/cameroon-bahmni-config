@@ -1,0 +1,106 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_order:1274
+65335209-38e1-4c5a-ae72-0c371db4f378,,,Site du malade,Patient's site,Site du malade,Patient's site,Misc,Text,,
+6c92841d-bc82-4b34-b1e2-b1379324aa7d,,,CDT,CDT,CDT,CDT,Misc,Boolean,,
+ccd7f1ef-52e1-4a97-a28a-ae5fe3d93578,,,a)Date,a)Date,Date,Date,Misc,Date,,
+12b20d87-092f-44c5-a779-e0375678bf8d,,,Tel 1, Tel 1,Tel 1, Tel 1,Misc,Text,,
+a87b6c10-eba4-4d0c-ba15-5360eeaafb3f,,,Tel 2, Tel 2,Tel 2, Tel 2,Misc,Text,,
+f4873173-0fee-484e-9f19-cde89ba842b4,,,Service/Lit ou Adresse,Department/Bed or Address,Service/Lit ou Adresse,Department/Bed or Address,Misc,Text,,
+
+64cbb8b7-e2ab-434c-92e2-39af5e139722,,2975a776-a4cb-4323-aa0f-43ee0a67ebc2;5dcd9f36-9688-4b92-b42b-6c1e0300ff87,Type de TB,TB type,Type de TB,TB type,Misc,Coded,,
+
+eaf98e45-aaab-412a-ab2b-56b04737347c,,,Hospitalisé,Hospitalized,Hospitalisé,Hospitalized,Misc,N/A,,
+67eabd3d-9ee5-4fe4-8a36-e1902df9141d,,,Enfant,Child,Enfant,Child,Misc,N/A,,
+676de379-5623-4b22-be8e-3c47ef31ede0,,eaf98e45-aaab-412a-ab2b-56b04737347c;a2f31381-448b-4ca4-9639-9df83e740442;67eabd3d-9ee5-4fe4-8a36-e1902df9141d,Catégorie(s),Categories,Catégorie(s),Categories,Misc,Coded,,
+
+a63fa7f8-f624-4094-820e-600e16481110,,,Sous TARV:,On ARVs:,Sous TARV,On ARVs,Misc,N/A,,
+42140180-0792-4b11-b172-45bf9065c7fd,,,Diabétique,Diabetic, Diabétique, Diabetic,Misc,N/A,,
+d071e52b-4244-49c5-be0f-b03677fe93f0,,,Mal nourri,Malnourished,Mal nourri,Malnourished,Misc,N/A,,
+d825ef4c-22a3-4c45-af8e-ce21b6195d6e,,,Autres:,Others:,Autres,Others,Misc,N/A,,
+75d006b1-7d48-466b-9f5a-122334d0b59f,,a63fa7f8-f624-4094-820e-600e16481110;42140180-0792-4b11-b172-45bf9065c7fd;d071e52b-4244-49c5-be0f-b03677fe93f0;d825ef4c-22a3-4c45-af8e-ce21b6195d6e,Initiation des ARV:,ART Initiation:,Initiation des ARV,ART Initiation,Misc,Coded,,
+
+1c188e1e-6299-4562-ab86-bbac99ec4597,,,a)Sueur nocturne,a)Night sweats,Sueur nocturne,Night sweats,Misc,N/A,,
+15c6a38f-91e1-4599-8c2d-bdccf32112e4,,,a)Si autre préciser,a)If other specify,Si autre préciser,If other specify,Misc,Text,,
+85896c79-1341-497c-9ae6-4288f38c974e,,6860847a-aba2-4102-8084-e5f4fe6cdfe7;1c188e1e-6299-4562-ab86-bbac99ec4597;2772a390-c504-4306-af94-622c3c0e3eb1;68313693-000a-425e-a7f2-b6ac57b0b0df;d825ef4c-22a3-4c45-af8e-ce21b6195d6e,Symptômes,Symptoms,Symptômes,Symptoms,Misc,Coded,
+
+39fe9bee-1e7c-47bd-9812-d80ac1130abf,,,a)Crachats,a)Sputum,Crachats,Sputum,Misc,N/A,,
+22134338-4fd6-4a93-9d51-b1f33b254b09,,,b)LCR,b)CSF,LCR,CSF,Misc,N/A,,
+23a29eb7-8b6e-4848-ab5b-704ab6c9ec99,,,c)Lavage gastrique,c)Gastric lavage,Lavage gastrique,Gastric lavage,Misc,N/A,,
+e5a4ddb1-3919-40d0-86b7-1e703c94052d,,,d)Ponction,d)Puncture,Ponction,Puncture,Misc,N/A,,
+958fda18-2229-434c-b68e-68859ec02eab,,,e)Pus,e)Pus,Pus,Pus,Misc,N/A,,
+fb105750-b02a-4128-9b6b-f77c296b8da5,,,f)Selles,f)Stool,Selles,Stool,Misc,N/A,,
+5db0641b-4469-4e6f-a3b6-90373d589d3c,,,g)Urine (pour LF-LAM),g)Urine (for LF-LAM),Urine (pour LF-LAM),Urine (for LF-LAM),Misc,N/A,,
+359086d3-cc04-41c3-9a94-ddc1abd5236f,,39fe9bee-1e7c-47bd-9812-d80ac1130abf;22134338-4fd6-4a93-9d51-b1f33b254b09;23a29eb7-8b6e-4848-ab5b-704ab6c9ec99;e5a4ddb1-3919-40d0-86b7-1e703c94052d;958fda18-2229-434c-b68e-68859ec02eab;fb105750-b02a-4128-9b6b-f77c296b8da5;5db0641b-4469-4e6f-a3b6-90373d589d3c;d825ef4c-22a3-4c45-af8e-ce21b6195d6e,Type d'échantillon,Sample type,Type d'échantillon,Sample type, Misc,Coded,,
+
+74fadbfa-8c03-4e5d-b6e7-4a182aaec03e,,,Diagnostic de tuberculose pulmonaire(examen microscopique négatif et forte suspicion clinique),Diagnosis of pulmonary tuberculosis (negative microscopic examination and strong clinical suspicion),Diagnostic de tuberculose pulmonaire(examen microscopique négatif et forte suspicion clinique),Diagnosis of pulmonary tuberculosis (negative microscopic examination and strong clinical suspicion),Misc,N/A,,
+0472e213-aa9f-4351-8be1-15f94c1a4a14,,,Présomption de TB,Presumption of TB,Présomption de TB,Presumption of TB,Misc,N/A,,
+3fa1f2c8-292a-4bee-9c44-941072a0c5c4,,74fadbfa-8c03-4e5d-b6e7-4a182aaec03e;0472e213-aa9f-4351-8be1-15f94c1a4a14,a)Diagnostic,a)Diagnosis,Diagnostic,Diagnosis,Misc,Coded,,
+
+9d1f702f-6c63-44d2-848a-15833fbbaf68,,,Sur RHEZ au mois M,On RHEZ in month M,Sur RHEZ au mois M,On RHEZ in month M,Misc,Text,,
+1bae3f18-d087-462a-b735-30f6058f9d40,,,Sur retraitement au mois M,On reprocessing in month M,Sur retraitement au mois M,On reprocessing in month M,Misc,Text,,
+7613cdd1-46cc-4d3f-ad05-48b0883410e2,,,Sur TB-MR au mois M,On TB-MR in month M,Sur TB-MR au mois M,On TB-MR in month M,Misc,Text,,
+f34ea8e1-1978-49df-a05d-707f0f344b2b,9d1f702f-6c63-44d2-848a-15833fbbaf68;1bae3f18-d087-462a-b735-30f6058f9d40;7613cdd1-46cc-4d3f-ad05-48b0883410e2,,b)Suivi,b)Follow-up,Suivi,Follow-up,Misc,N/A,,
+
+f0b151a2-bdd5-4e2c-ac56-12b568882c14,3fa1f2c8-292a-4bee-9c44-941072a0c5c4;f34ea8e1-1978-49df-a05d-707f0f344b2b,,Motif de l'examen,Reason for the examination,Motif de l'examen,Reason for the examination,Misc,N/A,,
+
+2695f825-0b99-426d-b020-b96fd9258047,,,N/A,N/A,N/A,N/A,Misc,N/A,,
+7d49355b-1c9f-49aa-a052-a7e1729affe4,,2695f825-0b99-426d-b020-b96fd9258047,Nouveau(pas sous traitement pendant >1mois),New (not on treatment for >1 month),Nouveau(pas sous traitement pendant >1mois),New (not on treatment for >1 month),Misc,Coded,,
+
+f837e6c3-788a-4443-93b4-2f6f8e4569f9,,,Reprise,Resumption,Reprise,Resumption,Misc,N/A,,
+91a131ec-6b5c-48ad-a91f-6f721f5621a4,,,<5ans,<5 years,<5ans,<5 years,Misc,N/A,,
+b8133193-3c4e-464b-89e7-1595436faf40,,,>5ans,>5 years,>5ans,>5 years,Misc,N/A,,
+a23e0d2f-0d14-4ecf-be2b-c5b1f9cdd50e,,,Contact d'un parent TB,Contact with a relative with TB,Contact d'un parent TB,Contact with a relative with TB,Misc,N/A,,
+4d003f76-7f48-4daa-a069-323b12b2d29d,,,Contact d'un TB-MR,Contact with an MDR-TB patient,Contact d'un TB-MR,Contact with an MDR-TB patient,Misc,N/A,,
+4c97413e-c465-4ce6-adc4-40cdd7e91b75,,2045633a-e4a6-4538-8a92-2b3a00f1e0b7;f837e6c3-788a-4443-93b4-2f6f8e4569f9;f22782a5-8b0a-4807-b6c3-75ac895fc4f0;91a131ec-6b5c-48ad-a91f-6f721f5621a4;b8133193-3c4e-464b-89e7-1595436faf40;a23e0d2f-0d14-4ecf-be2b-c5b1f9cdd50e;4d003f76-7f48-4daa-a069-323b12b2d29d;d825ef4c-22a3-4c45-af8e-ce21b6195d6e,Antécédent de TB,TB history,Antécédent de TB,TB history,Misc,Coded,,
+
+f250bc37-7885-42be-8a3d-81eae10eb6bc,,,Noms,Name,Noms,Name,Misc,Text,,
+3e49250d-b124-465b-8965-90a42e92ad7e,,,Tel,Phone,Tel,Phone,Misc,Text,,
+2d1e74ed-d739-4814-aecc-cd7c7a11086d,,,Email,Email,Email,Email,Misc,Text,,
+744ca7b5-d7da-40c3-b271-d70960d0c433,,,Date de demande,Date of request,Date de demande,Date of request,Misc,DateTime,,
+1dc8c669-baa4-44e5-b5a9-f6f152da6bc6,,,Signature,Signature,Signature,Signature,Misc,Text,,
+4b92d36a-15ee-4d0b-b55e-f643968c017f,f250bc37-7885-42be-8a3d-81eae10eb6bc;3e49250d-b124-465b-8965-90a42e92ad7e;2d1e74ed-d739-4814-aecc-cd7c7a11086d;c3659bf9-3f10-11e4-adec-0800271c1b75;744ca7b5-d7da-40c3-b271-d70960d0c433;1dc8c669-baa4-44e5-b5a9-f6f152da6bc6,,a)Prescripteur,b)Prescriber,Prescripteur,Prescriber,Misc,N/A,,
+
+39c67549-af1e-4dba-aa6a-317c224a95cc,,,Échantillon #1,Sample #1,Échantillon #1,Sample #1,Misc,DateTime,,
+2f26336e-56d7-4b16-96c2-d5a8d2159dd3,,,Échantillon #2,Sample #2,Échantillon #2,Sample #2,Misc,DateTime,,
+15eeb177-b98c-4252-818e-6b1f117af645,39c67549-af1e-4dba-aa6a-317c224a95cc;2f26336e-56d7-4b16-96c2-d5a8d2159dd3,,Prélèvement des échantillons,Sample Collection,Prélèvement des échantillons,Sample Collection,Misc,N/A,,
+
+423ee5c7-6894-49c8-9e65-e9ad5e581844,7d49355b-1c9f-49aa-a052-a7e1729affe4;4c97413e-c465-4ce6-adc4-40cdd7e91b75;15c6a38f-91e1-4599-8c2d-bdccf32112e4;4b92d36a-15ee-4d0b-b55e-f643968c017f;15eeb177-b98c-4252-818e-6b1f117af645,,Type de patient,Type of patient,Type de patient,Type of patient,Misc,N/A,,
+
+
+6439946b-39b5-4aab-97ff-404a8725f46a,,,Lab N°,Lab Numb,Lab N°,Lab Numb,Misc,Numeric,,
+7fe74025-5a3e-4987-9403-98c5c79ff9d1,,,Positif(préciser la quantification),Positive (specify quantification),Positif(préciser la quantification),Positive (specify quantification),Misc,N/A,,
+01429088-3d5a-4a7b-a032-8583c536cac6,,7fe74025-5a3e-4987-9403-98c5c79ff9d1;718b4589-2a11-4355-b8dc-aa668a93e098,Sample N°1,Sample N°1,Sample N°1,Sample N°1,Misc,Coded,,
+89ccd8c4-c293-4a15-aaae-b120c85326af,,7fe74025-5a3e-4987-9403-98c5c79ff9d1;718b4589-2a11-4355-b8dc-aa668a93e098,Sample N°2,Sample N°2,Sample N°2,Sample N°2,Misc,Coded,,
+a6e6b5fd-e473-49a1-af51-88057d7f68f9,6439946b-39b5-4aab-97ff-404a8725f46a;01429088-3d5a-4a7b-a032-8583c536cac6;89ccd8c4-c293-4a15-aaae-b120c85326af,,a)Microscopie,a)Microscopy,Microscopie,Microscopy,Misc,N/A,,
+
+47b4adba-d178-4cde-99a4-eef9bbe0f961,,7acfafa4-f19b-485e-97a7-c9e002dbe37a;718b4589-2a11-4355-b8dc-aa668a93e098,Statut:,Status:,Statut,Status,Misc,Coded,,
+9ddba9ee-b0b7-4508-9dfc-b5ed6c1b52e8,6439946b-39b5-4aab-97ff-404a8725f46a;47b4adba-d178-4cde-99a4-eef9bbe0f961;,,TB LAMP:,TB LAMP:,TB LAMP,TB LAMP,Misc,N/A,,
+
+
+f0e81283-ccbf-42cb-88d6-fae4d8bbbe48,,,Lab N°:,Lab Numb:,Lab N°,Lab Numb,Misc,Text,,
+
+e081d79c-8cf9-4964-927d-c492aab90312,,,Détectée,Detected,Détectée,Detected,Misc,N/A,,
+db945037-3125-4ed6-ac2d-2610aa3b2c30,,,Non détectée,Not detected,Non détectée,Not detected,Misc,N/A,,
+8c9589ef-763c-48cf-b941-e8cf335e717b,,e081d79c-8cf9-4964-927d-c492aab90312;db945037-3125-4ed6-ac2d-2610aa3b2c30,Rifampicin resistance,Rifampicin resistance,Rifampicin resistance,Rifampicin resistance,Misc,Coded,,
+d400bd3b-1e3c-4237-89f0-c2090665cc7c,,,Trace:,Trace:,Trace,Trace,Misc,Text,,
+ea51495c-e253-4a0a-9df9-b4de3828df3a,8c9589ef-763c-48cf-b941-e8cf335e717b;d400bd3b-1e3c-4237-89f0-c2090665cc7c,,a)Positif,a)Positive,Positif,Positive,Misc,N/A,,
+d110dd82-2041-4cd8-8fd2-c3f1bf8e52b8,,,a)Négatif,a)Negative,Négatif,Negative,Misc,Text,,
+
+ac0861e7-9497-4895-989d-f10d960fb7d0,f0e81283-ccbf-42cb-88d6-fae4d8bbbe48;ea51495c-e253-4a0a-9df9-b4de3828df3a;d110dd82-2041-4cd8-8fd2-c3f1bf8e52b8,,Gene Xpert MTB/RIF Ultra,Gene Xpert MTB/RIF Ultra,Gene Xpert MTB/RIF Ultra,Gene Xpert MTB/RIF Ultra,Misc,N/A,,
+
+76c8f148-de7b-4d4f-8689-4400cd45a74f,f0e81283-ccbf-42cb-88d6-fae4d8bbbe48;47b4adba-d178-4cde-99a4-eef9bbe0f961;,,LF LAM(urine),LF LAM(urine),LF LAM(urine),LF LAM(urine),Misc,N/A,,
+
+32c82057-c625-43dd-9911-2b458a5d6a7e,a6e6b5fd-e473-49a1-af51-88057d7f68f9;9ddba9ee-b0b7-4508-9dfc-b5ed6c1b52e8;ac0861e7-9497-4895-989d-f10d960fb7d0;76c8f148-de7b-4d4f-8689-4400cd45a74f,,Méthodes utilisées,Methods used,Méthodes utilisées,Methods used,Misc,N/A,,
+c8ac0bf5-5e01-469c-9b1e-8279d7e7b711,32c82057-c625-43dd-9911-2b458a5d6a7e,,Laboratoire:,Lab:,Laboratoire:,Lab:,Misc,N/A,,
+
+
+1938f2bf-461c-40a9-807f-6e9406b0d88d,,,CDT:,CDT:,CDT,CDT,Misc,Text,,
+d9793741-7406-486d-819a-2ec684e27412,1938f2bf-461c-40a9-807f-6e9406b0d88d;3e49250d-b124-465b-8965-90a42e92ad7e;1dc8c669-baa4-44e5-b5a9-f6f152da6bc6,,Résultats Examens faits par:,Exam Results done by:,Résultats Examens faits par:,Exam Results done by:,Misc,N/A,,
+
+98c2035b-45a5-4102-b6a3-f5edd1e863cd,,,Traité pour TB,Treated for TB,Traité pour TB,Treated for TB,Misc,N/A,,
+3f0a6e5c-efc3-4614-bbbf-0f0343742827,,,Antibiotiques initiés,Antibiotics initiated,Antibiotiques initiés,Antibiotics initiated,Misc,N/A,,
+094b122a-cde9-4ce7-8f3a-5387a855e256,,,N° registre TB du CDT,CDT TB register number,N° registre TB du CDT,CDT TB register number,Misc,Text,,
+
+6e79c0ad-8df5-4444-9539-1e0bb2f51c50,f250bc37-7885-42be-8a3d-81eae10eb6bc;3e49250d-b124-465b-8965-90a42e92ad7e;ccd7f1ef-52e1-4a97-a28a-ae5fe3d93578;1dc8c669-baa4-44e5-b5a9-f6f152da6bc6,,Par:,By:,Par:,By:,Misc,N/A,,
+82a3603c-2cce-4962-b1ad-39330dd99964,,98c2035b-45a5-4102-b6a3-f5edd1e863cd;3f0a6e5c-efc3-4614-bbbf-0f0343742827;d825ef4c-22a3-4c45-af8e-ce21b6195d6e,Prise en charge du malade:,Patient care:,Prise en charge du malade:,Patient care:,Misc,Coded,,
+ 
+d8a9d684-d316-4667-a0ae-530261d60b7b,Patient's site;CDT;a)Date;Tel 1;Tel 2;Department/Bed or Address;Serological status;TB type;Categories;ART Initiation:;a)If other specify;Symptoms;Sample type;Reason for the examination;Type of patient;Lab:;Exam Results done by:;By:;Patient care:,,Formulaire de Demande pour le diagnostic et le suivi du traitement de la TB,Application Form for TB Diagnosis and Treatment Follow-up,Formulaire de Demande pour le diagnostic et le suivi du traitement de la TB,Application Form for TB Diagnosis and Treatment Follow-up,Misc,N/A,,
